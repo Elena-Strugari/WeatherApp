@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Paris",
+    "latitude": 48.8566,
+    "longitude": 2.3522,
+    "current": "Sunny, 15°C",
+    "forecast": ["Sunny, 17°C", "Rainy, 12°C", "Cloudy, 13°C"]
+  },
+  {
+    "name": "London",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "current": "Cloudy, 10°C",
+    "forecast": ["Cloudy, 12°C", "Rainy, 11°C", "Sunny, 15°C"]
+  },
+  {
+    "name": "Brighton",
+    "latitude": 50.8225,
+    "longitude": -0.1372,
+    "current": "Sunny, 12°C",
+    "forecast": ["Sunny, 14°C", "Cloudy, 13°C", "Rainy, 11°C"]
+  },
+  {
+    "name": "Cambridge",
+    "latitude": 52.2053,
+    "longitude": 0.1218,
+    "current": "Cloudy, 14°C",
+    "forecast": ["Rainy, 13°C", "Cloudy, 14°C", "Sunny, 16°C"]
+  },
+//  {
+//    "name": "Oxford",
+//    "latitude": 51.7520,
+//    "longitude": -1.2577,
+//    "current": "Rainy, 11°C",
+//    "forecast": ["Cloudy, 12°C", "Rainy, 10°C", "Sunny, 14°C"]
+//  },
+  {
+    "name": "Birmingham",
+    "latitude": 52.4862,
+    "longitude": -1.8904,
+    "current": "Windy, 9°C",
+    "forecast": ["Rainy, 10°C", "Sunny, 12°C", "Cloudy, 11°C"]
+  },
+  {
+    "name": "Paris",
+    "latitude": 48.8566,
+    "longitude": 2.3522,
+    "current": "Sunny, 15°C",
+    "forecast": ["Sunny, 17°C", "Rainy, 12°C", "Cloudy, 13°C"]
+  },
+  {
+    "name": "Berlin",
+    "latitude": 52.5200,
+    "longitude": 13.4050,
+    "current": "Rainy, 12°C",
+    "forecast": ["Rainy, 13°C", "Cloudy, 12°C", "Sunny, 14°C"]
+  },
+  {
+    "name": "Rome",
+    "latitude": 41.9028,
+    "longitude": 12.4964,
+    "current": "Partly Cloudy, 18°C",
+    "forecast": ["Sunny, 20°C", "Sunny, 21°C", "Cloudy, 19°C"]
+  },
+  {
+    "name": "Madrid",
+    "latitude": 40.4168,
+    "longitude": -3.7038,
+    "current": "Sunny, 20°C",
+    "forecast": ["Sunny, 22°C", "Partly Cloudy, 21°C", "Rainy, 19°C"]
+  },
+  {
+    "name": "Amsterdam",
+    "latitude": 52.3676,
+    "longitude": 4.9041,
+    "current": "Windy, 14°C",
+    "forecast": ["Rainy, 13°C", "Cloudy, 14°C", "Sunny, 15°C"]
+  },
+  {
+    "name": "Vienna",
+    "latitude": 48.2082,
+    "longitude": 16.3738,
+    "current": "Cloudy, 13°C",
+    "forecast": ["Rainy, 14°C", "Cloudy, 13°C", "Sunny, 15°C"]
+  },
+  {
+    "name": "Prague",
+    "latitude": 50.0755,
+    "longitude": 14.4378,
+    "current": "Rainy, 11°C",
+    "forecast": ["Cloudy, 12°C", "Sunny, 13°C", "Rainy, 11°C"]
+  },
+  {
+    "name": "Lisbon",
+    "latitude": 38.7169,
+    "longitude": -9.1390,
+    "current": "Sunny, 22°C",
+    "forecast": ["Sunny, 24°C", "Sunny, 23°C", "Partly Cloudy, 21°C"]
+  },
+  {
+    "name": "Stockholm",
+    "latitude": 59.3293,
+    "longitude": 18.0686,
+    "current": "Cold, 5°C",
+    "forecast": ["Cold, 6°C", "Snowy, 2°C", "Cloudy, 3°C"]
+  },
+    {
+      "name": "New York",
+      "latitude": 40.7128,
+      "longitude": -74.0060,
+      "current": "Rainy, 8°C",
+      "forecast": ["Cloudy, 10°C", "Rainy, 7°C", "Sunny, 12°C"]
+    },
+    {
+      "name": "Tokyo",
+      "latitude": 35.6895,
+      "longitude": 139.6917,
+      "current": "Clear, 16°C",
+      "forecast": ["Clear, 17°C", "Sunny, 18°C", "Cloudy, 15°C"]
+    },
+    {
+      "name": "Sydney",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "current": "Sunny, 25°C",
+      "forecast": ["Sunny, 27°C", "Cloudy, 24°C", "Rainy, 22°C"]
+    },
+    {
+      "name": "Rio de Janeiro",
+      "latitude": -22.9068,
+      "longitude": -43.1729,
+      "current": "Partly Cloudy, 28°C",
+      "forecast": ["Sunny, 30°C", "Rainy, 27°C", "Cloudy, 26°C"]
+    },
+    {
+      "name": "Cape Town",
+      "latitude": -33.9249,
+      "longitude": 18.4241,
+      "current": "Windy, 20°C",
+      "forecast": ["Cloudy, 21°C", "Sunny, 22°C", "Rainy, 19°C"]
+    },
+    {
+      "name": "Moscow",
+      "latitude": 55.7558,
+      "longitude": 37.6173,
+      "current": "Snowy, -5°C",
+      "forecast": ["Snowy, -4°C", "Cloudy, -3°C", "Sunny, -2°C"]
+    },
+    {
+      "name": "Beijing",
+      "latitude": 39.9042,
+      "longitude": 116.4074,
+      "current": "Hazy, 12°C",
+      "forecast": ["Sunny, 15°C", "Cloudy, 13°C", "Rainy, 10°C"]
+    },
+    {
+      "name": "Mumbai",
+      "latitude": 19.0760,
+      "longitude": 72.8777,
+      "current": "Humid, 32°C",
+      "forecast": ["Sunny, 34°C", "Cloudy, 33°C", "Rainy, 31°C"]
+    },
+    {
+      "name": "Cairo",
+      "latitude": 30.0444,
+      "longitude": 31.2357,
+      "current": "Sunny, 27°C",
+      "forecast": ["Sunny, 28°C", "Sunny, 29°C", "Partly Cloudy, 26°C"]
+    },
+    {
+      "name": "Dubai",
+      "latitude": 25.276987,
+      "longitude": 55.296249,
+      "current": "Hot, 37°C",
+      "forecast": ["Sunny, 39°C", "Sunny, 40°C", "Sunny, 38°C"]
+    },
+    {
+      "name": "Singapore",
+      "latitude": 1.3521,
+      "longitude": 103.8198,
+      "current": "Humid, 29°C",
+      "forecast": ["Rainy, 30°C", "Cloudy, 28°C", "Sunny, 31°C"]
+    },
+    {
+      "name": "Los Angeles",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "current": "Sunny, 22°C",
+      "forecast": ["Sunny, 24°C", "Cloudy, 23°C", "Sunny, 25°C"]
+    },
+    {
+      "name": "Seoul",
+      "latitude": 37.5665,
+      "longitude": 126.9780,
+      "current": "Cloudy, 14°C",
+      "forecast": ["Rainy, 12°C", "Sunny, 16°C", "Cloudy, 15°C"]
+    },
+    {
+      "name": "Bangkok",
+      "latitude": 13.7563,
+      "longitude": 100.5018,
+      "current": "Humid, 33°C",
+      "forecast": ["Sunny, 35°C", "Cloudy, 34°C", "Rainy, 32°C"]
+    },
+    {
+      "name": "Buenos Aires",
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "current": "Cloudy, 18°C",
+      "forecast": ["Sunny, 20°C", "Rainy, 17°C", "Cloudy, 19°C"]
+    },
+    {
+      "name": "Istanbul",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "current": "Rainy, 12°C",
+      "forecast": ["Rainy, 14°C", "Cloudy, 13°C", "Sunny, 15°C"]
+    },
+    {
+      "name": "Jakarta",
+      "latitude": -6.2088,
+      "longitude": 106.8456,
+      "current": "Rainy, 29°C",
+      "forecast": ["Rainy, 30°C", "Cloudy, 29°C", "Sunny, 31°C"]
+    },
+    {
+      "name": "Lagos",
+      "latitude": 6.5244,
+      "longitude": 3.3792,
+      "current": "Humid, 31°C",
+      "forecast": ["Rainy, 32°C", "Cloudy, 30°C", "Sunny, 33°C"]
+    },
+  {
+    "name": "București",
+    "latitude": 44.4268,
+    "longitude": 26.1025,
+    "current": "Sunny, 22°C",
+    "forecast": ["Sunny, 24°C", "Rainy, 21°C", "Cloudy, 23°C"]
+  },
+  {
+    "name": "Cluj-Napoca",
+    "latitude": 46.7712,
+    "longitude": 23.6236,
+    "current": "Cloudy, 18°C",
+    "forecast": ["Rainy, 17°C", "Cloudy, 19°C", "Sunny, 20°C"]
+  },
+  {
+    "name": "Timișoara",
+    "latitude": 45.7489,
+    "longitude": 21.2087,
+    "current": "Rainy, 19°C",
+    "forecast": ["Cloudy, 20°C", "Rainy, 18°C", "Sunny, 22°C"]
+  },
+  {
+    "name": "Iași",
+    "latitude": 47.1585,
+    "longitude": 27.6014,
+    "current": "Partly Cloudy, 20°C",
+    "forecast": ["Sunny, 22°C", "Rainy, 19°C", "Cloudy, 21°C"]
+  },
+  {
+    "name": "Brașov",
+    "latitude": 45.6433,
+    "longitude": 25.5881,
+    "current": "Sunny, 17°C",
+    "forecast": ["Sunny, 18°C", "Cloudy, 16°C", "Rainy, 15°C"]
+  },
+  {
+    "name": "Constanța",
+    "latitude": 44.1598,
+    "longitude": 28.6348,
+    "current": "Sunny, 24°C",
+    "forecast": ["Sunny, 25°C", "Cloudy, 23°C", "Rainy, 22°C"]
+  },
+  {
+    "name": "Oradea",
+    "latitude": 47.0722,
+    "longitude": 21.9217,
+    "current": "Cloudy, 18°C",
+    "forecast": ["Rainy, 17°C", "Sunny, 19°C", "Cloudy, 20°C"]
+  },
+  {
+    "name": "Sibiu",
+    "latitude": 45.7983,
+    "longitude": 24.1256,
+    "current": "Rainy, 16°C",
+    "forecast": ["Cloudy, 17°C", "Sunny, 18°C", "Rainy, 15°C"]
+  },
+  {
+    "name": "Craiova",
+    "latitude": 44.3302,
+    "longitude": 23.7949,
+    "current": "Sunny, 23°C",
+    "forecast": ["Sunny, 25°C", "Rainy, 22°C", "Cloudy, 24°C"]
+  },
+  {
+    "name": "Arad",
+    "latitude": 46.1866,
+    "longitude": 21.3123,
+    "current": "Windy, 19°C",
+    "forecast": ["Rainy, 18°C", "Cloudy, 20°C", "Sunny, 21°C"]
+  },
+  {
+    "name": "Atena",
+    "latitude": 37.9838,
+    "longitude": 23.7275,
+    "current": "Sunny, 27°C",
+    "forecast": ["Sunny, 29°C", "Sunny, 28°C", "Cloudy, 26°C"]
+  },
+  {
+    "name": "Istanbul",
+    "latitude": 41.0082,
+    "longitude": 28.9784,
+    "current": "Rainy, 12°C",
+    "forecast": ["Rainy, 14°C", "Cloudy, 13°C", "Sunny, 15°C"]
+  }
+]
